@@ -25,7 +25,7 @@ Includes data from various countries, providing a geographical perspective on sa
 Peak Sales Years: Identifies years with the highest revenue, helping to pinpoint when the business was most successful. Weekday Dominance: Weekdays generally contribute a larger share of profit, suggesting higher customer activity during the work week. Quarterly Profit Variability: Shows which quarters perform best, highlighting potential seasonal patterns or opportunities for targeted marketing. High Contribution Days: Certain days consistently generate more profit, which can inform decisions on promotions, staffing, and resource allocation. $# Usage This dashboard is designed to support stakeholders in assessing sales performance and making data-driven decisions. It offers a comprehensive view of historical trends, potential growth areas, and regional sales insights to optimize business strategies. used excel , power query
 
 
-
+https://github.com/user-attachments/assets/e9da345e-3281-418e-bc9b-370314e0e5c8
 
 
 
